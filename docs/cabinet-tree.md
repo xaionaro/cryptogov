@@ -1,10 +1,11 @@
 * person
- - id
- - name
+ - x (org/gov id)
+  * person\_id
+  * person\_id.signature
+ - display\_name
  - passport.n
   * hash
- - photo.{png,jpg}
- - signatures
+ - avatar.{png,jpg}
 * keys
  - pgp
   * key.n.pub
